@@ -152,7 +152,7 @@ const itemsDB = [
   },
   {
     id: 17,
-    title: "Gorro Tipo Skater tela Negro",
+    title: "Gorro Tipo Skater Tela Negro",
     description: " Gorro tipo skakter de tela  negro logo frente. ",
     price: 399,
     stock: 30,
